@@ -7,6 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>HW220925_2_Tasks</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../HW220925_2_Tasks</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
